@@ -1,0 +1,7 @@
+/* Comentario en CSS */
+body{
+    background-color: rgb( 243, 220, 224 );
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif ;
+    padding-left: 11em;
+}
